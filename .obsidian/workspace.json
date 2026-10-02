@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "040e63c17b44dc6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "044b1a99f2b187d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69a891d58d85dd0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SystemDesign/C4-Diagrams/03-Container.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03-Container"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e739a8cf73a8581",
+    "type": "split",
+    "children": [
+      {
+        "id": "e96ed27a870a9969",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae26d2c85e1a89c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "abc5238b531e4431",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8b114d95097403d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "17da2e0bc19935b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcd2d187e845e78a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a45de1b8ac2a049f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "10-Architecture/Frontend-Data-Flow.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d17cdf93d7025db5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "10-Architecture/Frontend-Data-Flow.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "616384a81247791f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b32dd603da299314",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "588657cfbbf70210",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "10-Architecture/Frontend-Data-Flow.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "69a891d58d85dd0c",
+  "lastOpenFiles": [
+    "Infrastructure/Local_Dev_Setup.md",
+    "Infrastructure/Deployment.md",
+    "Frontend/Team_Insights.md",
+    "Frontend/Styling_And_Charts.md",
+    "Frontend/Frontend_Data_Flow.md",
+    "Frontend/Coach_Dashboard.md",
+    "Frontend/Auth_And_Roles.md",
+    "Backend/Email_Service.md",
+    "Backend/Data_Model.md",
+    "Backend/API_Endpoints.md",
+    "10-Architecture/C4-Container.md",
+    "SystemDesign/C4-Diagrams/sedXockBY",
+    "SystemDesign/C4-Diagrams/sedAhRuqw",
+    "README.md",
+    "Ticket/Project_History.md",
+    "Ticket/Resume_Highlights.md",
+    "Ticket/Resume_Highlights.md.tmp.4500.6bfd6175c6c9",
+    "Ticket/README.md",
+    "Ticket/README.md.tmp.4500.f732df5e804e",
+    "Ticket/Vault_Restructure.md",
+    "Ticket/SEC_2_Firestore_Rules.md",
+    "Ticket/SEC_1_API_Auth_Tokens.md",
+    "Ticket/Readme_And_Documentation_Vault.md",
+    "Ticket/Early_Frontend_Contributions.md",
+    "Ticket/sedJz6MM8",
+    "Ticket/sedCCHin4",
+    "Ticket/Refactor_Phase_8D_Inline_Styles.md",
+    "Ticket/Refactor_Phase_8C_Team_Builder.md",
+    "Ticket/Refactor_Phase_8B_Dashboard_Shell.md",
+    "Ticket/Refactor_Phase_8A_Team_Insights.md",
+    "Ticket/Refactor_Phase_6_Tooling.md",
+    "Ticket/Refactor_Phase_5_Styling_Pass.md",
+    "Ticket/Refactor_Phase_5_Styling_Pass.md.tmp.4500.6f6b3981f893",
+    "Ticket/Refactor_Phase_2_Vite_Layout.md.tmp.4500.dea4465eb762",
+    "Ticket/Refactor_Phase_1_Dead_Code.md.tmp.4500.10fe588a9cea",
+    "Sessions/README.md.tmp.4500.f438c8fef183"
+  ]
+}
